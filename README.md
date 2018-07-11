@@ -1,0 +1,2 @@
+# AzureEncryption
+Azure encryption scenarios
